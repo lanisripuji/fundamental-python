@@ -1,0 +1,16 @@
+#Dasar Python
+Python ialah bahasa pemograman yang ditujukan untuk general-purpose programming dan termasuk kategori High Level Programming Language karena lebih mudah untuk dibaca dan ditulis manusia
+
+#Fungsi Print () untuk menampilkan pesan ke layar pengguna
+
+Print("Hello world!")
+Hello world!
+
+#Konsep Variabel & Assignment
+
+#Data Numerik
+Berat_badan = 50
+nama = "Lanis"
+
+Print("Berat_badan")
+50
